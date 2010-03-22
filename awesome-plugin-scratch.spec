@@ -3,7 +3,7 @@ Summary:	Scratch is a Lua module that provides a basic drop-down applications an
 Summary(hu.UTF-8):	Scatch egy Lua module, amely egy lenyiló alkalmazás- és scratchpad manager-t valósít meg az awesome 3.4-hez
 Name:		awesome-plugin-scratch
 Version:	20100129
-Release:	0.1
+Release:	1
 License:	WTFPL v2
 Group:		X11/Window Managers/Tools
 Source0:	http://carme.pld-linux.org/~uzsolt/sources/%{name}-%{version}.tar.bz2
